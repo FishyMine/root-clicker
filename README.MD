@@ -1,1 +1,2 @@
 *Make sure to click setup.exe*
+## MAKE SURE TO DOWNLOAD ALL FILES DUE TO NOT INCLUDED EXE
